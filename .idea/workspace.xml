@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46171228-dc98-411c-9de8-453a8c8fc4e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tetpekker/cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tetpekker/cars/CarOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tetpekker/cars/JamesBondCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tetpekker/pets/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tetpekker/pets/FishMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tetpekker/pets/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tetpekker/pets/PetMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tetpekker/lessonTwo/Players.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tetpekker/lessonTwo/ReportCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tetpekker/lessonTwo/TemperatureConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForChildrenV1/tetpekker/Tmp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tetpekker/LesonOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tetpekker/LesonOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tetpekker/Tmp.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,16 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tetpekker/pets/Pet.java">
+        <entry file="file://$PROJECT_DIR$/src/tetpekker/lessonTwo/ReportCard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -62,23 +49,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tetpekker/cars/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
+            <state relative-caret-position="255">
               <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-              <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tetpekker/cars/JamesBondCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tetpekker/lessonTwo/Players.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tetpekker/cars/JamesBondCar.java">
+        <entry file="file://$PROJECT_DIR$/src/tetpekker/lessonTwo/TemperatureConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="340">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -105,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/src/tetpekker/pets/FishMaster.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -137,6 +136,10 @@
         <option value="$PROJECT_DIR$/src/tetpekker/cars/CarOwner.java" />
         <option value="$PROJECT_DIR$/src/tetpekker/pets/Fish.java" />
         <option value="$PROJECT_DIR$/src/tetpekker/pets/FishMaster.java" />
+        <option value="$PROJECT_DIR$/src/tetpekker/players/Players.java" />
+        <option value="$PROJECT_DIR$/src/tetpekker/players/TemperatureConverter.java" />
+        <option value="$PROJECT_DIR$/src/tetpekker/lessonTwo/ReportCard.java" />
+        <option value="$PROJECT_DIR$/src/tetpekker/lessonTwo/TemperatureConverter.java" />
       </list>
     </option>
   </component>
@@ -152,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,6 +176,13 @@
             </path>
             <path>
               <item name="JavaForChildren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaForChildren" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tetpekker" type="462c0819:PsiDirectoryNode" />
+              <item name="lessonTwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaForChildren" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -179,11 +190,11 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FishMaster">
+  <component name="RunManager" selected="Application.ReportCard">
     <configuration name="CarOwner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tetpekker.cars.CarOwner" />
       <module name="JavaForChildrenV1" />
@@ -224,19 +235,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LesonOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tetpekker.LesonOne" />
-      <module name="JavaForChildrenV1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tetpekker.pets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PetMaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tetpekker.pets.PetMaster" />
       <module name="JavaForChildrenV1" />
@@ -250,12 +248,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tetpekker.Tmp" />
+    <configuration name="Players" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tetpekker.lessonTwo.Players" />
       <module name="JavaForChildrenV1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tetpekker.pets.*" />
+          <option name="PATTERN" value="tetpekker.lessonTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tetpekker.lessonTwo.ReportCard" />
+      <module name="JavaForChildrenV1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tetpekker.lessonTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReportCard" />
+        <item itemvalue="Application.Players" />
         <item itemvalue="Application.FishMaster" />
         <item itemvalue="Application.CarOwner" />
         <item itemvalue="Application.PetMaster" />
-        <item itemvalue="Application.LesonOne" />
-        <item itemvalue="Application.Tmp" />
       </list>
     </recent_temporary>
   </component>
@@ -284,12 +295,21 @@
       <option name="presentableId" value="Default" />
       <updated>1574795507741</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Pets and Cars added&quot;">
+      <created>1574878045665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574878045665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,7 +317,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -317,6 +337,10 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Pets and Cars added&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Pets and Cars added&quot;" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -325,21 +349,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tetpekker/Tmp.java">
+    <entry file="file://$PROJECT_DIR$/src/tetpekker/Tmp.java" />
+    <entry file="file://$PROJECT_DIR$/src/tetpekker/pets/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tetpekker/LesonOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -352,27 +366,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tetpekker/cars/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
+        <state relative-caret-position="255">
           <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tetpekker/pets/Pet.java">
+    <entry file="file://$PROJECT_DIR$/src/tetpekker/cars/CarOwner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -386,21 +388,42 @@
     <entry file="file://$PROJECT_DIR$/src/tetpekker/pets/FishMaster.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tetpekker/cars/CarOwner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tetpekker/cars/JamesBondCar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tetpekker/lessonTwo/Players.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tetpekker/LesonOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tetpekker/lessonTwo/ReportCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tetpekker/lessonTwo/TemperatureConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
     </entry>
