@@ -9,6 +9,7 @@ public class TemperatureConverter {
 
     public static String convertTemp(int temperature, char convertTo){
 
+
         String newTemperature;
         if(convertTo == 'F'){
             newTemperature = "This temperature is a " + temperature + " of Farengeight";
